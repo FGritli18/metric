@@ -1,0 +1,56 @@
+body{
+    margin:3% 5% 5% 3%;
+
+}
+h1{
+    font-family: roboto;;
+    text-align:center;
+
+    padding-left:20px;
+     color:rgb(93, 187, 74);
+}
+h2{
+    font-family:roboto;
+    padding-left:30px; 
+    text-align:center;
+    color:rgb(93, 187, 74);
+
+}
+h3{
+    font-family: roboto;
+    text-align: center;
+    color:rgb(16, 158, 214);
+}
+h4{
+    font-family: roboto;
+    text-align:center;
+    padding-left:50px;
+    color:rgb(16, 158, 214);
+}
+p{
+    font-family: roboto;
+    font-size:20px; 
+    padding-left:50px; 
+    padding-right:50px;
+}
+.servOffer{
+    text-align:center;
+   
+   font-family:roboto;
+   font-size:20px;
+   background:rgba(241, 241, 241, 0.918);
+}
+.nav-item nav-link active{
+    margin-right: 100px;
+}
+.navbar-nav{
+    margin-right:100px;
+}
+.logoz{
+    width:10%;
+    height:10%;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 30%
+}
